@@ -1,0 +1,6 @@
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+
+https://stackoverflow.com/questions/28170623/how-to-read-hdf5-files-in-python
+
+Image dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+text dataset: Flickr8k_text.zip
